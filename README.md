@@ -31,6 +31,8 @@ FOLLOW THE FOLLOWING STEPS TO ACCESS THE PROGRAM:-
     Username and password for accessing the Admin rights are ADMIN and 1234 respectively.
     NOTE: Username and password both are case sensitive
     
+That's it. You are done. Thanks for accessing my program.
+
+
 ## SPECIAL THANKS TO JOHNEY FOR HELPING ME IN THIS PROJECT AND MANAGING DATABASES.
 
-That's it. You are done. Thanks for accessing my program.
