@@ -17,20 +17,18 @@ This is supermarket management system developed by Bhavesh, that's me. The aim o
       
 FOLLOW THE FOLLOWING STEPS TO ACCESS THE PROGRAM:-
 
-STEP 1 : Click on Code and Download all the files in the in my repository as a zip file.
+    STEP 1 : Click on Code and Download all the files in the in my repository as a zip file.
 
 
-STEP 2 : Extract Main.zip and open the extracted file.
+    STEP 2 : Extract Main.zip and open the extracted file.
 
 
-STEP 3 : Download all the required modules.
+    STEP 3 : Download all the required modules.
 
 
-STEP 4 : Run Main.py from the extracted file.
+    STEP 4 : Run Main.py from the extracted file.
 
-Username and password for accessing the Admin rights are ADMIN and 1234 respectively.
-
-
-NOTE: Username and password both are case sensitive
+    Username and password for accessing the Admin rights are ADMIN and 1234 respectively.
+    NOTE: Username and password both are case sensitive
 
 That's it. You are done. Thanks for accessing my program.
