@@ -28,7 +28,9 @@ STEP 3 : Download all the required modules.
 
 STEP 4 : Run Main.py from the extracted file.
 
-Username and password for accessing the Admin rights are ADMIN and 1234 respectively
+Username and password for accessing the Admin rights are ADMIN and 1234 respectively.
+
+
 NOTE: Username and password both are case sensitive
 
 That's it. You are done. Thanks for accessing my program.
